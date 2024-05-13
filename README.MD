@@ -17,17 +17,17 @@ Rutas
 
 Librerias necesarias
 
--Axios
--Chalk version ^4.1.2
--Express
--Lodash
--Moment
--Nodemon
--"Uuid"
+Axios
+Chalk version ^4.1.2
+Express
+Lodash
+Moment
+Nodemon
+"Uuid"
 
 Uso
 
--Clona este repositorio. 
--Instala las dependencias usando npm install.
--Ejecuta el servidor usando nodemon server.js
--Accede al sitio web estático en tu navegador.
+Clona este repositorio. 
+Instala las dependencias usando npm install.
+Ejecuta el servidor usando nodemon server.js
+Accede al sitio web estático en tu navegador.
